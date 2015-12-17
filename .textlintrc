@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "max-ten": true,
+    "spellcheck-tech-word": true
+  }
+}
